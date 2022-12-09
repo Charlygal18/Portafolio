@@ -1,0 +1,29 @@
+.menu{
+    padding: 2em;
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+.izquierda{
+    justify-content: space-around;
+    padding: 1em;
+}
+.col{
+    color: blue;
+    justify-content: space-between;
+}
+.sobremi{
+    color: black;
+}
+.links{
+    padding: 5em;
+}
+.Proyectos{
+    color: black;
+}
+.Lenguajes{
+    color: black;
+}
+.Contacto{
+    color: black;
+}
